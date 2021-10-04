@@ -34,6 +34,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	wget \
 	git \
 	curl \
+        npm \
 	vim \
 	zip \
 	net-tools \
@@ -54,6 +55,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	clojure \
 	php \
 	firefox \
+        nodejs \
 	gnome-terminal \
 	gnome-calculator \
 	gnome-system-monitor \
